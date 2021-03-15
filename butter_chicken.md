@@ -4,10 +4,10 @@
 
 ### Chicken
 
-- 240 g yogurt
-- 15 g garam masala
-- 15 g salt
-- 680 g benfri kyllinglår
+- 160 g yogurt
+- 10 g garam masala
+- 10 g salt
+- 450 g benfri kyllinglår
 
 ### Butter Chicken Curry (hver bolk i en bolle)
  
@@ -16,26 +16,26 @@
 --------------------------
 
 - 1 løk
-- 5 cm bit med ingerfær
-- 6 hvitløksbåter
+- 3 cm bit med ingerfær
+- 4 hvitløksbåter
 
 --------------------------
 
-- Salt and pepper to taste 
-- 8 g paprika
-- 9g malt cumin
-- 14 g garam masala
-- 16 g turmeric powder *(optional)
+- 5 g paprika
+- 5 g malt cumin
+- 9 g garam masala
+- 11 g turmeric powder *(optional)
 
 --------------------------
 
 - 1 boks knuste tomater
-- 160 g vann
+- 100 g vann
 
 --------------------------
 
-- 234 g fløte
+- 155 g fløte
 - 28 g usaltet smør
+- Salt and pepper to taste 
 
 --------------------------
 
@@ -65,6 +65,7 @@
 1. Reduser 30 %
 1. Kjør med stavmikser
 1. Bland in kyllingen
+1. Salte blandingen
 1. Kok til kyllingen er gjennomkokt
 1. Bland in fløte og smør
 1. Småkok i 2 minutter
