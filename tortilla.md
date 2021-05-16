@@ -17,8 +17,8 @@
 1. Rør inn vannet og stopp når en deig ball formes. Deigen skal knas minst mulig.
 1. La deigen hvile 30 min
 1. Fordel deigen i 14 like kuler
-1. Kjevle så tynt som mulig
-1. Stek i en stekepanne på 260 C, ca 30 sekunder per side
+1. Kjevle så tynt som mulig (trenger ikke mel under kjevling)
+1. Stek i en stekepanne på 480 C, ca 30 sekunder per side
 
 ## Lagring
 
